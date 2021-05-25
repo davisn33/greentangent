@@ -1,0 +1,9 @@
+export const SET_FARM_LIST="SET_FARM_LIST";
+export const SET_CURRENT_FARM="SET_CURRENT_FARM";
+export const ADD_FARM="ADD_FARM";
+
+
+
+export const SET_CURRENT_SENSOR="SET_CURRENT_SENSOR";
+export const SET_SENSOR_DATA="SET_SENSOR_DATA";
+export const ADD_SENSOR_DATA="ADD_SENSOR_DATA";

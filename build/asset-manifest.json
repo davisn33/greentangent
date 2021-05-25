@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/greentangents/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/greentangents/static/js/main.a5522ab2.chunk.js",
+    "main.js.map": "/greentangents/static/js/main.a5522ab2.chunk.js.map",
+    "runtime-main.js": "/greentangents/static/js/runtime-main.c409caaf.js",
+    "runtime-main.js.map": "/greentangents/static/js/runtime-main.c409caaf.js.map",
+    "static/js/2.f738554d.chunk.js": "/greentangents/static/js/2.f738554d.chunk.js",
+    "static/js/2.f738554d.chunk.js.map": "/greentangents/static/js/2.f738554d.chunk.js.map",
+    "index.html": "/greentangents/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/greentangents/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f738554d.chunk.js.LICENSE.txt": "/greentangents/static/js/2.f738554d.chunk.js.LICENSE.txt",
+    "static/media/greenhouse.d16cc52b.svg": "/greentangents/static/media/greenhouse.d16cc52b.svg",
+    "static/media/logo.a33b65f2.svg": "/greentangents/static/media/logo.a33b65f2.svg",
+    "static/media/spinner.e9202c75.gif": "/greentangents/static/media/spinner.e9202c75.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c409caaf.js",
+    "static/js/2.f738554d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a5522ab2.chunk.js"
+  ]
+}
